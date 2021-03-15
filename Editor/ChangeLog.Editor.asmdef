@@ -1,0 +1,18 @@
+{
+    "name": "ChangeLog.Editor",
+    "references": [
+        "GUID:5d163d890f94b234da512b94dc50557d",
+        "GUID:3bc7f0ed4ab7b9646af28589007ec4cb"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

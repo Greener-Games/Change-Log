@@ -1,0 +1,15 @@
+{
+    "name": "ChangeLog",
+    "references": [
+        "GUID:3bc7f0ed4ab7b9646af28589007ec4cb"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

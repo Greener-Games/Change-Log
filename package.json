@@ -1,0 +1,26 @@
+{
+  "name": "com.greener-games.change-log",
+  "displayName": "Change Log",
+  "description": "Package useful to keep track of the major changes done on a project. It stores a set of info about the version: version number, version name, the list of changes we want to save",
+  "version": "1.1.0",
+  "unity": "2019.3",
+  "license": "copyright",
+  "author": 
+  {
+    "name": "Greener Games"
+  },
+  "repository": {
+    "type": "git",
+    "url": null,
+    "directory": null
+  },
+  "bugs": {
+    "url": null
+  },
+  "homepage": null,
+  "dependencies": {
+    "com.greener-games.scriptable-data-asset": "1.0.0"
+  },
+  "publishDate": "2021-01-22T14:05:53.7789145Z",
+  "samples": null
+}
