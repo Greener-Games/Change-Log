@@ -19,7 +19,8 @@
   },
   "homepage": null,
   "dependencies": {
-    "com.greener-games.scriptable-data-asset": "1.0.0"
+    "com.greener-games.scriptable-data-asset": "1.0.0",
+	"jillejr.newtonsoft.json-for-unity": "12.0.302"
   },
   "publishDate": "2021-01-22T14:05:53.7789145Z",
   "samples": null

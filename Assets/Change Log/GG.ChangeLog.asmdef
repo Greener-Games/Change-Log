@@ -1,12 +1,9 @@
 {
-    "name": "ChangeLog.Editor",
+    "name": "GG.ChangeLog",
     "references": [
-        "GUID:5d163d890f94b234da512b94dc50557d",
         "GUID:3bc7f0ed4ab7b9646af28589007ec4cb"
     ],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
